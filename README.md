@@ -1,4 +1,4 @@
-# Siddhartha
+# Profile
 This is My Profile :
 <h1 align="center">Hi 👋, I'm Siddhartha Dasari</h1>
 <h3 align="center">Passionate CSE graduate with strong software development skills, innovative problem-solving abilities.</h3>
